@@ -1,0 +1,6 @@
+[submodule "voron24/macros"]
+	path = voron24/macros
+	url = git@github.com:TheBurnDoc/klipper_macros.git
+[submodule "voron01/macros"]
+	path = voron01/macros
+	url = git@github.com:TheBurnDoc/klipper_macros.git
