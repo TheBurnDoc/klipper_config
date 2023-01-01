@@ -1,0 +1,6 @@
+{
+    "files.exclude": {
+        "**/.moonraker.conf.bkp": true,
+        "**/printer-*_*.cfg": true
+    }
+}
